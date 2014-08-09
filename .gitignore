@@ -1,0 +1,13 @@
+*.pyc
+*.pyo
+.*project
+.idea
+*.un~
+local_settings.py
+coverage/
+.coverage
+*.pdf
+*.fo
+*.xlsx
+.DS_Store
+db.*
